@@ -36,5 +36,6 @@ This repository contains my C programming practice, beginner-level programs, cod
 ## 📫 Connect With Me
 
 - GitHub: [My GitHub Profile](https://github.com/)
+- https://github.com/ShanthiyaDurai
 
 ✨ *Learning today, building tomorrow!* 🚀
